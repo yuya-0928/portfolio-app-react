@@ -1,5 +1,3 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 import yuni_profile_image from "./image/yuni_profile.jpg";
